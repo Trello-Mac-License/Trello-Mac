@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://images.ctfassets.net/rz1oowkt5gyp/7lTGexxxJghYL72a2va0SV/9e1f1f1d1f1f1f1f1f1f1f1f1f1f1f1f/trello-board.png" width="1080" alt="Trello Screenshot"/>  
+  <img src="https://cdn.dribbble.com/userupload/11740947/file/original-8a1a721affbbced496ce58fddbb84368.png" width="1080" alt="Trello Screenshot"/>  
 </div>  
 
 <br>  
